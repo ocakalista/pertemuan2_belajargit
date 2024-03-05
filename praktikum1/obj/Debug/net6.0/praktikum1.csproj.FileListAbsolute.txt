@@ -1,0 +1,14 @@
+E:\23.11.5662\praktikum1\praktikum1\bin\Debug\net6.0\praktikum1.exe
+E:\23.11.5662\praktikum1\praktikum1\bin\Debug\net6.0\praktikum1.deps.json
+E:\23.11.5662\praktikum1\praktikum1\bin\Debug\net6.0\praktikum1.runtimeconfig.json
+E:\23.11.5662\praktikum1\praktikum1\bin\Debug\net6.0\praktikum1.dll
+E:\23.11.5662\praktikum1\praktikum1\bin\Debug\net6.0\praktikum1.pdb
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.GeneratedMSBuildEditorConfig.editorconfig
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.AssemblyInfoInputs.cache
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.AssemblyInfo.cs
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.csproj.CoreCompileInputs.cache
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.dll
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\refint\praktikum1.dll
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.pdb
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\praktikum1.genruntimeconfig.cache
+E:\23.11.5662\praktikum1\praktikum1\obj\Debug\net6.0\ref\praktikum1.dll
